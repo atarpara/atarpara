@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Vectorized
+### Hi there 👋 I'm Atarpara
 
 Open-source Solidity repositories I'm currently maintaining:
 
